@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshots
 
 ![](./static/screenshot-desktop.png)
-<img src="Assets/icon.png" style="width: 50%;">
+<img src="./static/Screenshot_mobile.jpg" style="width: 50%;">
 
 ### Links
 
