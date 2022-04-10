@@ -6,15 +6,15 @@ This is a solution to the [Fylo data storage component challenge on Frontend Men
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
+  <!-- - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development) -->
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+<!-- - [Acknowledgments](#acknowledgments) -->
 
 ## Overview
 
@@ -24,7 +24,7 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
+### Screenshots
 
 ![](./static/screenshot-desktop.png)
 
@@ -32,6 +32,8 @@ Users should be able to:
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+
+## My process
 
 ### Built with
 
