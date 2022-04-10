@@ -1,5 +1,5 @@
 <script>
-    import ProgressBar from "../shared/ProgressBar.svelte";
+    import ProgressBar from "$components/shared/ProgressBar.svelte";
 </script>
 
 <div class="w-full md:w-2/3 p-8 bg-DarkBlue relative font-Raleway text-PaleBlue rounded-lg">

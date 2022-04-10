@@ -1,12 +1,12 @@
 <script>
-	import Button from "../shared/Button.svelte";
+	import Button from "$components/shared/Button.svelte";
 </script>
 
 <div class="bg-DarkBlue w-fit p-8 pr-24 flex flex-col gap-6 rounded-lg rounded-tr-[84px]">
-	<img class="w-3/4" src="/src/assets/logo.svg" alt="fylo logo" />
+	<img class="w-3/4" src="/logo.svg" alt="fylo logo" />
 	<div class="flex flex-row gap-3">
-		<Button iconSrc='/src/assets/icon-document.svg' alt="document icon" />
-		<Button iconSrc='/src/assets/icon-folder.svg' alt="folder icon" />
-		<Button iconSrc='/src/assets/icon-upload.svg' alt="upload icon" />
+		<Button iconSrc='/icon-document.svg' alt="document icon" />
+		<Button iconSrc='/icon-folder.svg' alt="folder icon" />
+		<Button iconSrc='/icon-upload.svg' alt="upload icon" />
 	</div>
 </div>

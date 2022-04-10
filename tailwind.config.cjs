@@ -6,8 +6,8 @@ module.exports = {
         'Raleway': ['Raleway', 'sans-serif']
       },
       backgroundImage: {
-        bgDesktop: "url('/src/assets/bg-desktop.png')",
-        bgMobile: "url('/src/assets/bg-mobile.png')",
+        bgDesktop: "url('/bg-desktop.png')",
+        bgMobile: "url('/bg-mobile.png')",
       },
       colors: {
         Primary: {

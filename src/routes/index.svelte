@@ -1,6 +1,6 @@
 <script>
-    import CtrlPanel from "../components/custom/CtrlPanel.svelte";
-    import InfoPanel from "../components/custom/infoPanel.svelte";
+    import CtrlPanel from "$components/custom/CtrlPanel.svelte";
+    import InfoPanel from "$components/custom/infoPanel.svelte";
 </script>
 
 <main class="h-screen w-screen grid place-items-center bg-VeryDarkBlue bg-bgMobile bg-cover md:bg-bgDesktop md:bg-contain bg-bottom bg-no-repeat ">
