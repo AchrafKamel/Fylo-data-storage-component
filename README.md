@@ -15,7 +15,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
   - [Continued development](#continued-development) -->
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#Acknowledgments)
+- [Deployment](#Deployment)
 
 ## Overview
 
@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshots
 
 ![](./static/screenshot-desktop.png)
-![](./static/Screenshot_mobile.jpg)
+<img src="Assets/icon.png" style="width: 50%;">
 
 ### Links
 
@@ -58,8 +58,6 @@ Users should be able to:
 - Linkedin - [@achraf-kamel](https://www.linkedin.com/in/achraf-kamel/)
 - Twitter - [@Achraf_Kamel_97](https://twitter.com/Achraf_Kamel_97)
 
-## Acknowledgments
+## Deployment
 
-[<img src="./static/svelte.svg" width="200">](https://kit.svelte.dev/)
-[<img src="./static/tailwindcss.svg" width="200">](https://tailwindcss.com/)
-[<img src="./static/vercel.svg" width="200">](https://vercel.com/)
+[vercel](https://vercel.com)
