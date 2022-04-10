@@ -40,11 +40,11 @@ Users should be able to:
 
 - Mobile-first workflow
 - [SvelteKit](https://kit.svelte.dev/) - JS framework
-- [Styled Components](https://tailwindcss.com/) - utility-first CSS framework for styles
+- [Tailwindcss](https://tailwindcss.com/) - utility-first CSS framework for styles
 
 ### Useful resources
 
-- [tailwind CSS official documentation](https://tailwindcss.com/docs/guides/sveltekit)
+- [Tailwind CSS official documentation](https://tailwindcss.com/docs/guides/sveltekit)
 - [Svelte official tutorial](https://svelte.dev/tutorial/basics)
 - [Svelte official documentation](https://svelte.dev/docs)
 - [SvelteKit official documentation](https://kit.svelte.dev/docs/introduction)
