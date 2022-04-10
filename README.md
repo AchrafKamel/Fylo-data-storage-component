@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Solution: [frontendmentor solution page](https://www.frontendmentor.io/solutions/fylo-data-storage-component-using-sveltekit-and-tailwindcss-BkHFJAJE5)
+- Live Demo: [live demo](https://fylo-data-storage-component-achrafkamel.vercel.app/)
 
 ## My process
 
