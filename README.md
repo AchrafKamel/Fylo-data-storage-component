@@ -11,11 +11,11 @@ Frontend Mentor challenges help you improve your coding skills by building reali
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Deployment](#Deployment)
   <!-- - [What I learned](#what-i-learned)
   - [Continued development](#continued-development) -->
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Deployment](#Deployment)
 
 ## Overview
 
@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshots
 
 ![](./static/screenshot-desktop.png)
-<img src="./static/Screenshot_mobile.jpg" style="width: 50%; margin: auto; display: block;">
+<img src="./static/Screenshot_mobile.jpg" style="width: 50%;">
 
 ### Links
 
