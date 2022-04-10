@@ -1,40 +1,55 @@
-# create-svelte
+# Frontend Mentor - Fylo data storage component solution
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+This is a solution to the [Fylo data storage component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-data-storage-component-1dZPRbV5n). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Creating a project
+## Table of contents
 
-If you're seeing this, you've probably already done this step. Congrats!
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-```bash
-# create a new project in the current directory
-npm init svelte@next
+## Overview
 
-# create a new project in my-app
-npm init svelte@next my-app
-```
+### The challenge
 
-> Note: the `@next` is temporary
+Users should be able to:
 
-## Developing
+- View the optimal layout for the site depending on their device's screen size
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+### Screenshot
 
-```bash
-npm run dev
+![](./static/screenshot-desktop.png)
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+### Links
 
-## Building
+<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
-To create a production version of your app:
+### Built with
 
-```bash
-npm run build
-```
+- Mobile-first workflow
+- [SvelteKit](https://kit.svelte.dev/) - JS framework
+- [Styled Components](https://tailwindcss.com/) - utility-first CSS framework for styles
 
-You can preview the production build with `npm run preview`.
+### Useful resources
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+- [tailwind CSS official documentation](https://tailwindcss.com/docs/guides/sveltekit)
+- [Svelte official tutorial](https://svelte.dev/tutorial/basics)
+- [Svelte official documentation](https://svelte.dev/docs)
+- [SvelteKit official documentation](https://kit.svelte.dev/docs/introduction)
+
+## Author
+
+<!-- - Website - [Achraf Kamel](https://dev.AK-97.me) -->
+- Frontend Mentor - [@AchrafKamel](https://www.frontendmentor.io/profile/AchrafKamel)
+- Freecodecamp - [@ak-97](https://www.freecodecamp.org/ak-97)
+- Linkedin - [@achraf-kamel](https://www.linkedin.com/in/achraf-kamel/)
+- Twitter - [@Achraf_Kamel_97](https://twitter.com/Achraf_Kamel_97)
