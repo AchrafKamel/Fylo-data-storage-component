@@ -60,6 +60,6 @@ Users should be able to:
 
 ## Acknowledgments
 
-[![Tailwindcss](./static/tailwindcss.svg)](https://tailwindcss.com/)
-[![SvelteKit](./static/svelte.svg)](https://kit.svelte.dev/)
-[![Vercel](./static/vercel.svg)](https://vercel.com/)
+[<img src="./static/svelte.svg" width="200">](https://kit.svelte.dev/)
+[<img src="./static/tailwindcss.svg" width="200">](https://tailwindcss.com/)
+[<img src="./static/vercel.svg" width="200">](https://vercel.com/)
