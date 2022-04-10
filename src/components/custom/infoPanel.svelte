@@ -3,7 +3,7 @@
 </script>
 
 <div class="w-full md:w-2/3 p-8 bg-DarkBlue relative font-Raleway text-PaleBlue rounded-lg">
-    <p class="text-sm mb-3">You've used <strong>815 GB</strong> of your storage</p>
+    <h1 class="text-sm mb-3">You've used <strong>815 GB</strong> of your storage</h1>
     <ProgressBar value={81.5} />
     <div class="w-fit h-fit bg-white px-4 py-1 text-black absolute -bottom-7 right-1/2 translate-x-1/2 flex flex-row gap-2 rounded-lg \
                 md:-top-9 md:rounded-br-none md:right-8 md:transform-none \
