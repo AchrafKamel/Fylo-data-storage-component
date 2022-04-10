@@ -15,7 +15,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
   - [Continued development](#continued-development) -->
   - [Useful resources](#useful-resources)
 - [Author](#author)
-<!-- - [Acknowledgments](#acknowledgments) -->
+- [Deployment](#Deployment)
 
 ## Overview
 
@@ -57,3 +57,7 @@ Users should be able to:
 - Freecodecamp - [@ak-97](https://www.freecodecamp.org/ak-97)
 - Linkedin - [@achraf-kamel](https://www.linkedin.com/in/achraf-kamel/)
 - Twitter - [@Achraf_Kamel_97](https://twitter.com/Achraf_Kamel_97)
+
+## Deployment
+
+[![Powered by Vercel](./static/vercel.svg)](https://vercel.com?utm_source=powered-by-vercel)
