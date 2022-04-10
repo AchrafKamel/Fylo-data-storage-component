@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshots
 
 ![](./static/screenshot-desktop.png)
-<img src="./static/Screenshot_mobile.jpg" style="width: 50%;">
+<img src="./static/Screenshot_mobile.jpg" style="width: 50%; margin: auto; display: block;">
 
 ### Links
 
@@ -43,12 +43,18 @@ Users should be able to:
 - [SvelteKit](https://kit.svelte.dev/) - JS framework
 - [Tailwindcss](https://tailwindcss.com/) - utility-first CSS framework for styles
 
+### Deployment
+
+- [vercel](https://vercel.com)
+
 ### Useful resources
 
 - [Tailwind CSS official documentation](https://tailwindcss.com/docs/guides/sveltekit)
 - [Svelte official tutorial](https://svelte.dev/tutorial/basics)
 - [Svelte official documentation](https://svelte.dev/docs)
 - [SvelteKit official documentation](https://kit.svelte.dev/docs/introduction)
+- [Vercel official documentation](https://vercel.com/docs)
+
 
 ## Author
 
@@ -57,7 +63,3 @@ Users should be able to:
 - Freecodecamp - [@ak-97](https://www.freecodecamp.org/ak-97)
 - Linkedin - [@achraf-kamel](https://www.linkedin.com/in/achraf-kamel/)
 - Twitter - [@Achraf_Kamel_97](https://twitter.com/Achraf_Kamel_97)
-
-## Deployment
-
-[vercel](https://vercel.com)
